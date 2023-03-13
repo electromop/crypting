@@ -1,0 +1,2 @@
+# crypting
+ freqeuncy analyse 
